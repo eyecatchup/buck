@@ -1,0 +1,14 @@
+com.facebook.buck.cli
+com.facebook.buck.command
+com.facebook.buck.debug
+com.facebook.buck.graph
+com.facebook.buck.json
+com.facebook.buck.junit
+com.facebook.buck.model
+com.facebook.buck.parcelable
+com.facebook.buck.parser
+com.facebook.buck.python
+com.facebook.buck.rules
+com.facebook.buck.shell
+com.facebook.buck.testutil
+com.facebook.buck.util
